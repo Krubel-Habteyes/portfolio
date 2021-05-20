@@ -96,7 +96,6 @@ body {
 
 .crw-header{
     margin-top: 1rem;
-    background-color: red;
     border-radius: 5px;
     height: 60vh;
     background: url("../images/crw.png");
@@ -182,7 +181,6 @@ body {
 
 .accessibility, .emotional{
     margin-top: 1rem;
-    background-color: red;
     border-radius: 5px;
     height: 60vh;
     background: url("../images/accessibility.jpg");
