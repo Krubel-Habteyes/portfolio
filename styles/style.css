@@ -99,7 +99,7 @@ body {
     background-color: red;
     border-radius: 5px;
     height: 60vh;
-    background: url("/dist/images/crw.png");
+    background: url("../images/crw.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -135,7 +135,7 @@ body {
     margin-top: 1rem;
     border-radius: 5px;
     height: 60vh;
-    background: url("/dist/images/kangaroo.png");
+    background: url("..//images/kangaroo.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -185,7 +185,7 @@ body {
     background-color: red;
     border-radius: 5px;
     height: 60vh;
-    background: url("/dist/images/accessibility.jpg");
+    background: url("../images/accessibility.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
