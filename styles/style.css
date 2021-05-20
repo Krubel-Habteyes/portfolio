@@ -134,7 +134,7 @@ body {
     margin-top: 1rem;
     border-radius: 5px;
     height: 60vh;
-    background: url("..//images/kangaroo.png");
+    background: url("../images/kangaroo.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
