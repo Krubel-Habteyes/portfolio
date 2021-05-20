@@ -1,0 +1,234 @@
+
+body {
+   background-color: #F5F5F5
+}
+
+.portfolio-intro{
+    text-align: justify;
+}
+
+.profile-image{
+    width: 100px;
+    height: 100px;
+}
+
+.bio {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.profile-image {
+   border-radius: 50%;
+   object-fit: cover;
+   box-shadow: 10px 10px 8px #888888;
+}
+
+
+.dd {
+    text-align: justify;
+    color: black;
+    background-color: white;
+    border: 1px solid red;
+    margin-top: 3rem;
+}
+
+.web-icon {
+    width: 4rem;
+    height: 4rem;
+}
+
+.hand-wave {
+    font-size: 2rem;;
+}
+
+.icon-background {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    align-content: space-around;
+    width: 5rem;
+    height: 6rem;
+    font-size: 12px;
+    color: black;
+    padding: 10px;
+    margin: .2rem;
+}
+
+.my-role {
+    display: flex;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+
+.my-role > .my-image > img {
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+.my-role > div {
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+
+.my-role > span{
+    width: 5rem;
+}
+
+
+.icon-row {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.crw-header{
+    margin-top: 1rem;
+    background-color: red;
+    border-radius: 5px;
+    height: 60vh;
+    background: url("/images/crw.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid;
+
+}
+
+.crw-h1{
+        text-align: center;
+        margin-top: 2rem;;
+}
+
+.content {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.challenge-1 {
+    margin-top: 2rem;
+}
+
+.challenge-5 > img {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 55rem;
+    height: 25rem;
+    object-fit: contain;
+    border: 1px solid black;
+}
+
+.cln-kg-h1{
+    margin-top: 1rem;
+    background-color: red;
+    border-radius: 5px;
+    height: 60vh;
+    background: url("/images/kangaroo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    border: 2px solid;
+}
+
+.fonts {
+    display: flex;
+    flex-direction: row;
+    width: 20rem;
+    height: 20rem;
+}
+
+.fonts > img{
+    border: 1px solid black;
+    margin-right: 1rem;
+}
+
+
+.flows{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.flows > img {
+    width: 55rem;
+    border: 1px solid black;
+    margin: 1rem
+}
+
+.hi-fi {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.hi-fi > img {
+    width: 20rem;
+    border: 1px solid black;
+    margin: 2rem
+}
+
+
+.accessibility, .emotional{
+    margin-top: 1rem;
+    background-color: red;
+    border-radius: 5px;
+    height: 60vh;
+    background: url("/images/accessibility.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid;
+}
+
+.accessibility-info {
+    margin-top: 2rem;
+}
+
+.accessibility-info > p {
+    border-radius: 5px;
+}
+
+.accessibility-info > p > a {
+    text-decoration: none;
+    color: black;
+}
+
+.emotional{
+    background: url("/images/mood.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.ten-steps{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-right: 3rem;
+}
+.card {
+    box-shadow: 10px 10px 8px #888888;
+    margin-bottom: 3rem;
+    border: none;
+}
+
+.card-img-top{
+    height: 10rem;
+    object-fit: cover;
+}
+
