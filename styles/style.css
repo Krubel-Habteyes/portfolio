@@ -204,7 +204,7 @@ body {
 }
 
 .emotional{
-    background: url("/images/mood.jpg");
+    background: url("../images/mood.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
